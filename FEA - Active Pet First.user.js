@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FEA - Active Pet First
-// @namespace    https://github.com/SLKibara/npScripts/edit/Neopets-Scripts/FEA%20-%20Active%20Pet%20First
+// @namespace    https://github.com/SLKibara/npScripts/blob/Neopets-Scripts/FEA%20-%20Active%20Pet%20First.user.js
 // @version      1.0
 // @description  Move your active pet to the top of the Employment Agency pet list.
 // @author       Kibara
